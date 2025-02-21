@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Feb 19 17:52:46 CST 2025
+@default-spring-libs-release-https\://repo.spring.io/libs-release/.lastUpdated=1739957950608
+https\://repo.spring.io/libs-release/.error=Could not transfer artifact org.slf4j\:slf4j-api\:jar\:1.7.30 from/to spring-libs-release (https\://repo.spring.io/libs-release)\: status code\: 401, reason phrase\:  (401)
+https\://repo.spring.io/libs-snapshot/.error=Could not transfer artifact org.slf4j\:slf4j-api\:jar\:1.7.30 from/to spring-libs-snapshot (https\://repo.spring.io/libs-snapshot)\: status code\: 401, reason phrase\:  (401)
+https\://repo.maven.apache.org/maven2/.lastUpdated=1739958766967
+@default-spring-libs-snapshot-https\://repo.spring.io/libs-snapshot/.lastUpdated=1739957951479

@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Feb 20 10:38:17 CST 2025
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1740019097122
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.apache.maven.plugins\:maven-install-plugin\:pom\:2.5.2 from/to central (https\://repo.maven.apache.org/maven2)\: Connect to repo.maven.apache.org\:443 [repo.maven.apache.org/151.101.108.215] failed\: connect timed out
